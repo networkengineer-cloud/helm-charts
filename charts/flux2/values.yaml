@@ -236,7 +236,7 @@ sourceController:
 
 preInstall:
   annotations:
-  
+
 policies:
   create: true
 
