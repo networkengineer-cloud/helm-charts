@@ -234,6 +234,9 @@ sourceController:
   tolerations: []
   extraEnv: []
 
+preInstall:
+  annotations:
+  
 policies:
   create: true
 
